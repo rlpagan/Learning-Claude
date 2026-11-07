@@ -11,3 +11,11 @@ Learning-Claude is a repository for learning and experimenting with Claude and C
 - The README and commit messages are written in Spanish; keep user-facing documentation in Spanish unless asked otherwise.
 - The default branch is `main`.
 - The GitHub repository name is `rlpagan/Learning-Claude` (capital L and C). Using the lowercase URL works but GitHub prints a "This repository moved" warning on push; prefer the correctly cased remote URL.
+
+## Cómo trabajar conmigo
+
+- Estoy aprendiendo data engineering. Explícame cada concepto nuevo con palabras simples.
+- Antes de escribir código, muéstrame un plan corto y espera mi aprobación.
+- Usa Python 3. Datos crudos en `data/raw` y procesados en `data/clean`.
+- Comenta el código en español.
+- Al terminar cada tarea, dame 1 o 2 ejercicios para practicar yo mismo.
