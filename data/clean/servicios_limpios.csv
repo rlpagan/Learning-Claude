@@ -1,0 +1,186 @@
+fecha,cliente,municipio,cuerdas,servicio,precio
+2025-01-03,Cosecha Verde,Añasco,46.9,Fumigación,1641.5
+2025-01-04,Hidropónicos Del Oeste,Jayuya,18.6,Mapeo,372.0
+2025-01-04,Cosecha Verde,Mayagüez,18.8,Siembra,846.0
+2025-01-04,Hidropónicos Del Oeste,Isabela,52.3,Siembra,2353.5
+2025-01-07,Granja Monte Alto,Isabela,28.7,Mapeo,574.0
+2025-01-09,Platanera Don Luis,Lajas,47.5,Mapeo,950.0
+2025-01-10,Platanera Don Luis,Jayuya,55.3,Inspección,829.5
+2025-01-11,Granja Monte Alto,Santa Isabel,11.1,Mapeo,222.0
+2025-01-17,Cosecha Verde,Añasco,5.2,Mapeo,150.0
+2025-01-20,Hacienda Buena Vista,Adjuntas,59.8,Mapeo,1196.0
+2025-01-20,Finca La Esperanza,Lajas,22.8,Fumigación,798.0
+2025-01-23,Agro Lajas,Añasco,33.2,Mapeo,664.0
+2025-01-23,Hidropónicos Del Oeste,Mayagüez,32.6,Inspección,489.0
+2025-01-26,Hidropónicos Del Oeste,Añasco,17.1,Fumigación,598.5
+2025-01-26,Hidropónicos Del Oeste,Adjuntas,56.8,Mapeo,1136.0
+2025-01-30,Agro Lajas,Lajas,35.5,Fumigación,1242.5
+2025-01-30,Hidropónicos Del Oeste,Adjuntas,40.6,Fumigación,1421.0
+2025-02-01,Hidropónicos Del Oeste,Isabela,50.1,Siembra,2254.5
+2025-02-03,Finca El Cafetal,Mayagüez,30.0,Inspección,450.0
+2025-02-04,Finca La Esperanza,Isabela,27.1,Inspección,406.5
+2025-02-10,Cosecha Verde,Adjuntas,37.6,Inspección,564.0
+2025-02-11,Platanera Don Luis,Isabela,53.5,Fumigación,1872.5
+2025-02-12,Agro Lajas,Lajas,17.1,Siembra,769.5
+2025-02-14,Hacienda Buena Vista,Isabela,2.9,Inspección,150.0
+2025-02-16,Hacienda Buena Vista,Mayagüez,58.7,Inspección,880.5
+2025-02-19,Finca El Cafetal,Santa Isabel,48.9,Mapeo,978.0
+2025-02-21,Granja Monte Alto,Adjuntas,6.9,Inspección,150.0
+2025-02-24,Cosecha Verde,Utuado,17.1,Siembra,769.5
+2025-02-25,Granja Monte Alto,Adjuntas,12.3,Siembra,553.5
+2025-02-28,Agro Lajas,Mayagüez,56.9,Inspección,853.5
+2025-02-28,Agro Lajas,Utuado,57.8,Inspección,867.0
+2025-03-05,Agro Lajas,Utuado,18.9,Siembra,850.5
+2025-03-06,Agro Lajas,Jayuya,39.9,Siembra,1795.5
+2025-03-07,Hidropónicos Del Oeste,Isabela,39.1,Fumigación,1368.5
+2025-03-08,Hacienda Buena Vista,Añasco,31.4,Mapeo,628.0
+2025-03-11,Granja Monte Alto,Utuado,43.2,Fumigación,1512.0
+2025-03-11,Granja Monte Alto,Santa Isabel,27.7,Fumigación,969.5
+2025-03-12,Granja Monte Alto,Lajas,4.1,Mapeo,150.0
+2025-03-12,Agro Lajas,Lajas,14.6,Siembra,657.0
+2025-03-13,Finca El Cafetal,Isabela,27.5,Inspección,412.5
+2025-03-16,Agro Lajas,Isabela,32.9,Siembra,1480.5
+2025-03-17,Finca La Esperanza,Adjuntas,7.1,Siembra,319.5
+2025-03-20,Platanera Don Luis,Lajas,57.0,Inspección,855.0
+2025-03-24,Granja Monte Alto,Jayuya,25.3,Mapeo,506.0
+2025-03-25,Finca El Cafetal,Jayuya,7.4,Mapeo,150.0
+2025-03-26,Platanera Don Luis,Utuado,3.6,Inspección,150.0
+2025-03-26,Finca El Cafetal,Isabela,55.3,Inspección,829.5
+2025-04-02,Hidropónicos Del Oeste,Santa Isabel,3.3,Mapeo,150.0
+2025-04-03,Granja Monte Alto,Añasco,38.5,Inspección,577.5
+2025-04-04,Platanera Don Luis,Santa Isabel,16.3,Fumigación,570.5
+2025-04-06,Platanera Don Luis,Mayagüez,41.8,Inspección,627.0
+2025-04-07,Granja Monte Alto,Isabela,37.7,Mapeo,754.0
+2025-04-08,Granja Monte Alto,Mayagüez,30.4,Siembra,1368.0
+2025-04-13,Cosecha Verde,Utuado,21.6,Inspección,324.0
+2025-04-19,Platanera Don Luis,Adjuntas,4.0,Fumigación,150.0
+2025-04-23,Hidropónicos Del Oeste,Jayuya,13.9,Inspección,208.5
+2025-04-26,Cosecha Verde,Isabela,20.9,Fumigación,731.5
+2025-04-29,Platanera Don Luis,Adjuntas,43.6,Fumigación,1526.0
+2025-05-01,Cosecha Verde,Isabela,8.1,Inspección,150.0
+2025-05-03,Agro Lajas,Añasco,33.6,Siembra,1512.0
+2025-05-04,Granja Monte Alto,Isabela,39.1,Inspección,586.5
+2025-05-05,Hidropónicos Del Oeste,Añasco,34.6,Inspección,519.0
+2025-05-09,Hidropónicos Del Oeste,Isabela,6.4,Fumigación,224.0
+2025-05-13,Finca La Esperanza,Utuado,17.5,Mapeo,350.0
+2025-05-15,Cosecha Verde,Mayagüez,42.5,Mapeo,850.0
+2025-05-15,Hidropónicos Del Oeste,Lajas,44.7,Siembra,2011.5
+2025-05-21,Finca La Esperanza,Adjuntas,58.5,Fumigación,2047.5
+2025-05-23,Hidropónicos Del Oeste,Santa Isabel,38.8,Mapeo,776.0
+2025-05-23,Platanera Don Luis,Jayuya,13.7,Siembra,616.5
+2025-05-24,Hacienda Buena Vista,Santa Isabel,8.6,Fumigación,301.0
+2025-05-24,Cosecha Verde,Utuado,41.7,Fumigación,1459.5
+2025-05-28,Granja Monte Alto,Utuado,42.5,Mapeo,850.0
+2025-05-30,Platanera Don Luis,Jayuya,1.1,Inspección,150.0
+2025-05-31,Agro Lajas,Jayuya,23.1,Mapeo,462.0
+2025-06-03,Granja Monte Alto,Utuado,41.7,Inspección,625.5
+2025-06-03,Hacienda Buena Vista,Lajas,19.7,Inspección,295.5
+2025-06-04,Finca El Cafetal,Añasco,39.0,Inspección,585.0
+2025-06-04,Hidropónicos Del Oeste,Lajas,15.4,Inspección,231.0
+2025-06-04,Finca El Cafetal,Utuado,33.3,Inspección,499.5
+2025-06-06,Platanera Don Luis,Santa Isabel,28.9,Mapeo,578.0
+2025-06-07,Hacienda Buena Vista,Añasco,4.4,Siembra,198.0
+2025-06-07,Granja Monte Alto,Jayuya,26.9,Mapeo,538.0
+2025-06-08,Granja Monte Alto,Utuado,59.4,Inspección,891.0
+2025-06-10,Agro Lajas,Añasco,23.1,Mapeo,462.0
+2025-06-11,Hidropónicos Del Oeste,Isabela,20.1,Mapeo,402.0
+2025-06-12,Finca El Cafetal,Utuado,52.5,Inspección,787.5
+2025-06-13,Platanera Don Luis,Adjuntas,50.5,Fumigación,1767.5
+2025-06-14,Cosecha Verde,Utuado,58.9,Siembra,2650.5
+2025-06-17,Granja Monte Alto,Mayagüez,39.2,Siembra,1764.0
+2025-06-19,Hacienda Buena Vista,Mayagüez,40.1,Mapeo,802.0
+2025-06-20,Cosecha Verde,Lajas,48.3,Inspección,724.5
+2025-06-21,Hidropónicos Del Oeste,Adjuntas,20.5,Fumigación,717.5
+2025-06-26,Agro Lajas,Adjuntas,52.8,Siembra,2376.0
+2025-06-26,Granja Monte Alto,Mayagüez,7.5,Inspección,150.0
+2025-06-28,Platanera Don Luis,Añasco,52.9,Fumigación,1851.5
+2025-06-29,Hidropónicos Del Oeste,Lajas,58.1,Mapeo,1162.0
+2025-06-29,Finca La Esperanza,Jayuya,7.8,Mapeo,156.0
+2025-07-04,Finca El Cafetal,Añasco,57.3,Fumigación,2005.5
+2025-07-05,Cosecha Verde,Isabela,27.7,Fumigación,969.5
+2025-07-06,Hidropónicos Del Oeste,Santa Isabel,55.2,Mapeo,1104.0
+2025-07-07,Finca La Esperanza,Añasco,50.0,Mapeo,1000.0
+2025-07-11,Finca El Cafetal,Añasco,32.8,Siembra,1476.0
+2025-07-14,Platanera Don Luis,Santa Isabel,27.8,Mapeo,556.0
+2025-07-15,Finca La Esperanza,Jayuya,34.9,Mapeo,698.0
+2025-07-15,Finca El Cafetal,Lajas,32.2,Inspección,483.0
+2025-07-25,Finca El Cafetal,Mayagüez,10.7,Fumigación,374.5
+2025-07-25,Cosecha Verde,Mayagüez,34.6,Fumigación,1211.0
+2025-07-30,Finca El Cafetal,Lajas,52.0,Inspección,780.0
+2025-08-01,Finca La Esperanza,Mayagüez,56.1,Mapeo,1122.0
+2025-08-02,Hidropónicos Del Oeste,Añasco,46.8,Siembra,2106.0
+2025-08-03,Finca La Esperanza,Isabela,27.5,Siembra,1237.5
+2025-08-04,Granja Monte Alto,Isabela,50.3,Mapeo,1006.0
+2025-08-05,Finca La Esperanza,Utuado,58.1,Fumigación,2033.5
+2025-08-07,Platanera Don Luis,Santa Isabel,41.7,Siembra,1876.5
+2025-08-09,Cosecha Verde,Santa Isabel,8.6,Siembra,387.0
+2025-08-10,Granja Monte Alto,Jayuya,38.5,Mapeo,770.0
+2025-08-13,Cosecha Verde,Mayagüez,8.2,Inspección,150.0
+2025-08-15,Finca El Cafetal,Utuado,4.0,Fumigación,150.0
+2025-08-18,Finca La Esperanza,Añasco,32.5,Siembra,1462.5
+2025-08-21,Finca La Esperanza,Lajas,10.3,Mapeo,206.0
+2025-08-22,Platanera Don Luis,Añasco,48.3,Siembra,2173.5
+2025-08-23,Granja Monte Alto,Isabela,7.5,Fumigación,262.5
+2025-08-23,Platanera Don Luis,Mayagüez,13.7,Siembra,616.5
+2025-08-26,Agro Lajas,Santa Isabel,21.1,Siembra,949.5
+2025-08-27,Cosecha Verde,Adjuntas,27.1,Inspección,406.5
+2025-08-29,Hacienda Buena Vista,Mayagüez,32.7,Mapeo,654.0
+2025-08-30,Agro Lajas,Adjuntas,28.0,Siembra,1260.0
+2025-08-31,Agro Lajas,Isabela,23.8,Inspección,357.0
+2025-09-01,Cosecha Verde,Jayuya,27.9,Fumigación,976.5
+2025-09-03,Hacienda Buena Vista,Santa Isabel,46.4,Inspección,696.0
+2025-09-06,Agro Lajas,Mayagüez,14.4,Siembra,648.0
+2025-09-06,Hacienda Buena Vista,Utuado,17.2,Siembra,774.0
+2025-09-10,Hacienda Buena Vista,Adjuntas,45.6,Fumigación,1596.0
+2025-09-10,Platanera Don Luis,Adjuntas,22.3,Fumigación,780.5
+2025-09-14,Hacienda Buena Vista,Mayagüez,31.0,Siembra,1395.0
+2025-09-21,Platanera Don Luis,Mayagüez,20.3,Siembra,913.5
+2025-09-25,Cosecha Verde,Santa Isabel,56.1,Mapeo,1122.0
+2025-09-27,Agro Lajas,Adjuntas,40.1,Fumigación,1403.5
+2025-09-30,Hacienda Buena Vista,Santa Isabel,40.0,Inspección,600.0
+2025-10-03,Hidropónicos Del Oeste,Jayuya,45.1,Mapeo,902.0
+2025-10-06,Finca La Esperanza,Lajas,4.6,Mapeo,150.0
+2025-10-07,Agro Lajas,Isabela,50.2,Fumigación,1757.0
+2025-10-08,Finca La Esperanza,Jayuya,23.5,Mapeo,470.0
+2025-10-08,Granja Monte Alto,Utuado,53.9,Inspección,808.5
+2025-10-11,Cosecha Verde,Añasco,27.5,Fumigación,962.5
+2025-10-11,Cosecha Verde,Adjuntas,35.6,Siembra,1602.0
+2025-10-13,Hidropónicos Del Oeste,Lajas,6.3,Mapeo,150.0
+2025-10-18,Granja Monte Alto,Añasco,13.5,Mapeo,270.0
+2025-10-19,Hacienda Buena Vista,Utuado,37.0,Fumigación,1295.0
+2025-10-20,Finca La Esperanza,Jayuya,28.2,Inspección,423.0
+2025-10-20,Granja Monte Alto,Utuado,15.3,Inspección,229.5
+2025-10-22,Finca La Esperanza,Adjuntas,60.0,Fumigación,2100.0
+2025-10-23,Hidropónicos Del Oeste,Utuado,16.0,Siembra,720.0
+2025-10-23,Finca El Cafetal,Mayagüez,42.6,Siembra,1917.0
+2025-10-27,Platanera Don Luis,Utuado,49.5,Inspección,742.5
+2025-10-29,Hidropónicos Del Oeste,Santa Isabel,31.9,Inspección,478.5
+2025-10-29,Finca La Esperanza,Jayuya,1.9,Mapeo,150.0
+2025-10-29,Cosecha Verde,Santa Isabel,58.9,Mapeo,1178.0
+2025-10-31,Platanera Don Luis,Isabela,11.1,Siembra,499.5
+2025-11-05,Finca El Cafetal,Santa Isabel,30.5,Inspección,457.5
+2025-11-05,Platanera Don Luis,Santa Isabel,33.2,Siembra,1494.0
+2025-11-11,Finca La Esperanza,Mayagüez,36.9,Fumigación,1291.5
+2025-11-12,Finca La Esperanza,Utuado,28.4,Inspección,426.0
+2025-11-14,Agro Lajas,Isabela,41.0,Mapeo,820.0
+2025-11-14,Cosecha Verde,Utuado,6.5,Mapeo,150.0
+2025-11-18,Granja Monte Alto,Santa Isabel,28.4,Inspección,426.0
+2025-11-21,Cosecha Verde,Santa Isabel,32.3,Fumigación,1130.5
+2025-11-24,Finca La Esperanza,Adjuntas,2.5,Fumigación,150.0
+2025-11-25,Hidropónicos Del Oeste,Isabela,39.4,Mapeo,788.0
+2025-11-25,Hidropónicos Del Oeste,Isabela,7.6,Mapeo,152.0
+2025-11-28,Agro Lajas,Utuado,36.9,Fumigación,1291.5
+2025-11-30,Cosecha Verde,Isabela,45.5,Fumigación,1592.5
+2025-11-30,Cosecha Verde,Añasco,26.4,Siembra,1188.0
+2025-12-01,Finca La Esperanza,Lajas,40.4,Fumigación,1414.0
+2025-12-02,Platanera Don Luis,Jayuya,17.1,Mapeo,342.0
+2025-12-04,Granja Monte Alto,Santa Isabel,52.1,Inspección,781.5
+2025-12-05,Cosecha Verde,Mayagüez,26.1,Siembra,1174.5
+2025-12-08,Granja Monte Alto,Adjuntas,54.0,Fumigación,1890.0
+2025-12-19,Finca La Esperanza,Utuado,36.2,Fumigación,1267.0
+2025-12-20,Hidropónicos Del Oeste,Santa Isabel,43.1,Siembra,1939.5
+2025-12-20,Finca La Esperanza,Lajas,7.0,Siembra,315.0
+2025-12-23,Finca La Esperanza,Isabela,10.1,Inspección,151.5
+2025-12-23,Agro Lajas,Lajas,35.7,Inspección,535.5
+2025-12-23,Cosecha Verde,Jayuya,33.7,Mapeo,674.0
+2025-12-31,Hacienda Buena Vista,Adjuntas,5.3,Inspección,150.0

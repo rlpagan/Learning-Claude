@@ -1,0 +1,24 @@
+fecha,cliente,municipio,cuerdas,servicio,precio,motivo
+2025-11-08,FINCA LA ESPERANZA,lajas,7.6,Inspección,,precio_invalido
+2025-06-28,Hidropónicos Del Oeste,  Utuado ,25.5,fumigación,,precio_invalido
+2025-02-30,Cosecha Verde,Adjuntas,55.6,siembra,2502.0,fecha_invalida
+2025-06-28,Hidropónicos Del Oeste,  Utuado ,25.5,fumigación,,precio_invalido
+2025-05-24,Cosecha Verde,Utuado,41.7,fumigación,1459.5,duplicado
+2025-06-25,agro lajas,Añasco,-12.5,Fumigación,1078.0,cuerdas_invalidas
+2025-08-29,Hidropónicos Del Oeste,Santa Isabel,21.0,Mapeo,,precio_invalido
+sin fecha,hacienda buena vista,Adjuntas,15.7,  Mapeo ,314.0,fecha_invalida
+2025-09-08,  Finca El Cafetal ,Lajas,29.0,Mapeo,,precio_invalido
+2025-06-03,hacienda buena vista,lajas,19.7,INSPECCIÓN,$295.50,duplicado
+2025-02-28,Finca La Esperanza,Adjuntas,-5.0,Siembra,1278.0,cuerdas_invalidas
+sin fecha,Finca La Esperanza,Utuado,50.1,  Inspección ,751.5,fecha_invalida
+2025-07-11,Finca El Cafetal,añasco,32.8,Siembra,1476.0,duplicado
+2025-02-10,finca la esperanza,Mayagüez,12.6,mapeo,,precio_invalido
+2025-11-24,FINCA EL CAFETAL,Isabela,-5.0,Siembra,"$1,863.00",cuerdas_invalidas
+2025-05-13,Finca La Esperanza,utuado,17.5,Mapeo,350.0,duplicado
+2025-13-01,Platanera Don Luis,ADJUNTAS,54.7,Fumigación,1914.5,fecha_invalida
+2025-08-13,Cosecha Verde,  Santa Isabel ,-5.0,Fumigación,$294.00,cuerdas_invalidas
+2025-08-05,  Finca La Esperanza ,UTUADO,58.1,Fumigación,2033.5,duplicado
+2025-08-31,Agro Lajas,isabela,23.8,Inspección,357.0,duplicado
+2025-01-21,Cosecha Verde,Santa Isabel,13.4,Mapeo,,precio_invalido
+2025-04-06,Platanera Don Luis,Mayagüez,41.8,Inspección,$627.00,duplicado
+2025-05-29,Agro Lajas,utuado,-12.5,MAPEO,"$1,024.00",cuerdas_invalidas
